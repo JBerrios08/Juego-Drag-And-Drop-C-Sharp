@@ -177,11 +177,11 @@
         }
 
         //VERIFICACIÓN DEL FIN DEL JUEGO
-        private void verificarfin()
+        private void verificarfin(bool forzarFin = false)
         {
             foreach (var pb in basuras)
             {
-                if (pb.Visible) return; // si queda basura, salimos
+                if (pb.Visible && !forzarFin) return; // si queda basura y no se fuerza el fin, salimos
             }
 
             //MI TEMPORIZADOR SE DETENDRA CUANDO SE HAYAN COLOCADO TODA LA BASURA EN SUS BASUREROS Y MOSTRARA UN FORMULARIO
@@ -255,7 +255,7 @@
             if (tiempo <= 0)
             {
                 temporizador.Stop();
-                verificarfin(); // usamos el mismo formulario de fin de juego
+                verificarfin(forzarFin: true); // usamos el mismo formulario de fin de juego
             }
         }
     }
