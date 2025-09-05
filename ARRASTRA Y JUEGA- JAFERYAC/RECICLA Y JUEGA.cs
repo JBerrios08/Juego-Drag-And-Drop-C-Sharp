@@ -120,9 +120,19 @@
                 (pb == PictureBoxBanana && pb.Bounds.IntersectsWith(pictureBoxNaranja.Bounds)) ||
                 (pb == pictureBoxHoja && pb.Bounds.IntersectsWith(pictureBoxNaranja.Bounds)))
             {
+                correcta = true;
+                pb.Visible = false;
+            }
+            else
+            {
+                pb.Location = posicionesOriginales[pb];
+                pb.Visible = true;
+            }
+
+            if (correcta)
+            {
                 //POR CADA ACIERTO SON 10 PUNTOS
                 puntos += 10;
-                correcta = true;
             }
             else
             {
@@ -131,7 +141,6 @@
                 if (puntos < 0) puntos = 0; // PARA QUE NO PASE DE 0 Y TENGA PUNTOS NEGATIVOS
             }
 
-            pb.Visible = false; // OCULTO LA BASURA AUNQUE ESTE MAL RECICLADA 
             LabelPorcentaje.Text = "PUNTOS: " + puntos;
             verificarfin();
         }
