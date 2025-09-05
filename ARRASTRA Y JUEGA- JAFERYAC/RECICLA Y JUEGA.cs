@@ -139,6 +139,11 @@
         //BOTON DE INICIAR JUEGO
         private void button1_Click(object sender, EventArgs e)
         {
+            InicializarJuego();
+        }
+
+        private void InicializarJuego()
+        {
             //UTILIZO LAS VARIABLES Y LE DOY UN VALOR
             tiempo = 60;
             puntos = 0;
@@ -152,7 +157,7 @@
             LabelTiempo.Visible = true;
             LabelPorcentaje.Visible = true;
 
-            //MUESTRO MIS BASUREROS 
+            //MUESTRO MIS BASUREROS
             pictureBoxVERDE.Visible = true;
             pictureBoxAmarillo.Visible = true;
             pictureBoxRojo.Visible = true;
@@ -161,9 +166,13 @@
             pictureBoxNaranja.Visible = true;
 
             //MOSTRAMOS TODA LA BASURA
+            //MOSTRAMOS TODA LA BASURA EN SU POSICIÓN ORIGINAL
             ReiniciarBasuras();
 
             //INICIAMOS TEMPORIZADOR
+            // REINICIAMOS TEMPORIZADOR
+            temporizador.Stop();
+            temporizador.Tick -= temporizador_Tick;
             IniciarTemporizador();
         }
 
@@ -213,19 +222,7 @@
         //UNA VES SE REINICIA EL JUEGO ENTRARIA EN ACCION "ReiniciarJuego"
         private void ReiniciarJuego()
         {
-            puntos = 0;
-            tiempo = 60;
-
-            LabelTiempo.Text = "Tiempo: " + tiempo;
-            LabelPorcentaje.Text = "PUNTOS: " + puntos;
-
-            //MOSTRAMOS TODA LA BASURA EN SU POSICIÓN ORIGINAL
-            ReiniciarBasuras();
-
-            // REINICIAMOS TEMPORIZADOR
-            temporizador.Stop();
-            temporizador.Tick -= temporizador_Tick;
-            IniciarTemporizador();
+            InicializarJuego();
         }
 
         //METODO PARA COLOCAR TODA LA BASURA EN SU POSICIÓN ORIGINAL
