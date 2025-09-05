@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\arrastra y juega- jaferyac\\recicla y juega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\recicla y juega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|c:\\users\\alex\\onedrive\\escritorio\\arrastra y juega- jaferyac\\arrastra y juega- jaferyac\\instrucciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\instrucciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\arrastra y juega- jaferyac\\instrucciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\instrucciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|c:\\users\\alex\\onedrive\\escritorio\\arrastra y juega- jaferyac\\arrastra y juega- jaferyac\\findeljuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\findeljuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\arrastra y juega- jaferyac\\findeljuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\findeljuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|c:\\users\\alex\\onedrive\\escritorio\\arrastra y juega- jaferyac\\arrastra y juega- jaferyac\\pantalla de inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\pantalla de inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|c:\\users\\alex\\onedrive\\escritorio\\arrastra y juega- jaferyac\\arrastra y juega- jaferyac\\recicla y juega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE03BC6B-0882-4026-8533-448764849938}|ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC.csproj|solutionrelative:arrastra y juega- jaferyac\\recicla y juega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PANTALLA DE INICIO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\PANTALLA DE INICIO.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\PANTALLA DE INICIO.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\PANTALLA DE INICIO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\PANTALLA DE INICIO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:23:25.17Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RECICLA Y JUEGA.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:14:33.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RECICLA Y JUEGA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\RECICLA Y JUEGA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:02:55.184Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INSTRUCCIONES.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:30:13.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INSTRUCCIONES.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\INSTRUCCIONES.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:12:17.151Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FINDELJUEGO.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:23:29.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FINDELJUEGO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "RelativeDocumentMoniker": "ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs",
+              "ToolTip": "C:\\Users\\Alex\\OneDrive\\Escritorio\\ARRASTRA Y JUEGA- JAFERYAC\\ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ARRASTRA Y JUEGA- JAFERYAC\\FINDELJUEGO.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:14:26.398Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

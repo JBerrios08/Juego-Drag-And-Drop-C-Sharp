@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ARRASTRA Y JUEGA- JAFERYAC/1.0.0": {
+        "runtime": {
+          "ARRASTRA Y JUEGA- JAFERYAC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARRASTRA Y JUEGA- JAFERYAC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
